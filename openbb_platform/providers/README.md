@@ -27,3 +27,4 @@ openbb_platform
 The models define the data structures that are used to query the provider endpoints and store the response data.
 
 See [CONTRIBUTING file](../CONTRIBUTING.md) for more details
+\n## Upstox\n\nThe Upstox provider uses the official Upstox API. Install the `openbb-upstox` package and set your `access_token` in the credentials file to enable it.
